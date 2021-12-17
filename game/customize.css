@@ -1,0 +1,24 @@
+.player-color {
+  background-color: #009DAE;
+}
+
+.player-area {
+  background: linear-gradient(0deg, #009DAE, #0F2C67);
+}
+
+.player-card .power {
+  background-image: url(images/shield.svg);
+}
+
+/* Hacker Styles */
+.hacker-color {
+  background-color: #9A0680;
+}
+
+.hacker-area {
+  background: linear-gradient(0deg, #9A0680, #160040);
+}
+
+.hacker-card .power {
+  background-image: url(images/skull.svg);
+}
